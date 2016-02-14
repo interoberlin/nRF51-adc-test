@@ -1,0 +1,3 @@
+[submodule "nordic"]
+	path = nordic
+	url = git@interoberlin.de:~/nRF51/SDK-Nordic.git
