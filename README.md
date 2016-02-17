@@ -5,14 +5,4 @@ LED2 is also flashed.
 
 http://electronut.in/nrf51-adc-test/
 
-### nRF51-DK
-
-![nRF51-DK LDR setup](nrf-ldr-main.jpg "nRF51-DK LDR setup")
-
-### nRF51822 Breakout Board
-
 ![nRF51-bo](nRF51-BO-SWD-DK.jpg "nRF51-bo setup")
-
-### RedBearLab Nano
-
-![rbl-nano-swd](rbl-nano-swd.jpg "rbl-nano-swd setup")
